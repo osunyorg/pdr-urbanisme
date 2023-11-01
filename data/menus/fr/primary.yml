@@ -1,11 +1,11 @@
 ---
 title: Menu principal
 items:
-- title: Charte de la ville vivrière idéale
+- title: La charte
   target: "/charte-de-la-ville-vivriere-ideale/"
   kind: page
   children: []
-- title: Nouvelle d'anticipation
+- title: La nouvelle
   target: "/nouvelle-danticipation/"
   kind: page
   children: []
