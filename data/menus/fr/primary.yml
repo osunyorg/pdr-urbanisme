@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: La nouvelle
-  target: "/nouvelle-danticipation/"
+  target: "/nouvelles-danticipation/"
   kind: page
   children: []
 
