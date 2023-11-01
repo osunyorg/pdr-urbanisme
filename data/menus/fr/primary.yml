@@ -1,20 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Charte de la ville vivrière idéale
   target: "/charte-de-la-ville-vivriere-ideale/"
+  kind: page
+  children: []
+- title: Nouvelle d'anticipation
+  target: "/nouvelle-danticipation/"
   kind: page
   children: []
 
