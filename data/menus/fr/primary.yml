@@ -17,8 +17,4 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Aubervilliers, ville vivrière
-  target: "/aubervilliers-ville-vivriere/"
-  kind: page
-  children: []
 
