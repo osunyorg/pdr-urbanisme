@@ -5,7 +5,7 @@ items:
   target: "/charte-de-la-ville-vivriere-ideale/"
   kind: page
   children: []
-- title: La nouvelle
+- title: Les nouvelles
   target: "/nouvelles-danticipation/"
   kind: page
   children: []
