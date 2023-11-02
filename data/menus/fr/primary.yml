@@ -9,7 +9,7 @@ items:
   target: "/nouvelles-danticipation/"
   kind: page
   children: []
-- title: Carte d'identité du territoire
+- title: La carte d'identité
   target: "/carte-didentite-socio-demo-eco/"
   kind: page
   children: []
