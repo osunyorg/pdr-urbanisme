@@ -13,7 +13,6 @@ fr:
     posts_categories: /actualites-1/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites-1/
   taxonomies:
     administrator: administrators
     author: authors
