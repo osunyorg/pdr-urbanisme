@@ -5,12 +5,15 @@ items:
   target: "/charte-de-la-ville-vivriere-ideale/"
   kind: page
   children: []
+  file: content/fr/pages/charte-de-la-ville-vivriere-ideale/_index.html
 - title: Les nouvelles
   target: "/nouvelles-danticipation/"
   kind: page
   children: []
+  file: content/fr/pages/nouvelles-danticipation/_index.html
 - title: La carte d'identité
   target: "/carte-didentite-socio-demo-eco/"
   kind: page
   children: []
+  file: content/fr/pages/carte-didentite-socio-demo-eco/_index.html
 
