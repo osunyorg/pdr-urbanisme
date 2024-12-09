@@ -7,7 +7,8 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /actualites-1/:year-:month-:day-:slug/
     posts_categories: /actualites-1/:slug/
