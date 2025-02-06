@@ -16,10 +16,10 @@ items:
   path: "/pages/nouvelles-danticipation"
   file: content/fr/pages/nouvelles-danticipation/_index.html
 - title: La carte d'identité
-  target: "/carte-didentite-socio-demo-eco/"
+  target: "/la-carte-d-identite/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/carte-didentite-socio-demo-eco"
-  file: content/fr/pages/carte-didentite-socio-demo-eco/_index.html
+  path: "/pages/la-carte-d-identite"
+  file: content/fr/pages/la-carte-d-identite/_index.html
 
