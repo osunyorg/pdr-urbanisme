@@ -2,6 +2,11 @@
 
 baseURL: https://urbanisme.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 488bc313-a01f-45b5-bffd-652009c961af
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
