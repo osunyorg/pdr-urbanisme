@@ -2,24 +2,30 @@
 title: Menu principal
 items:
 - title: La charte
+  slug: la-charte
   target: "/charte-de-la-ville-vivriere-ideale/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/charte-de-la-ville-vivriere-ideale"
   file: content/fr/pages/charte-de-la-ville-vivriere-ideale/_index.html
 - title: Les nouvelles
+  slug: les-nouvelles
   target: "/nouvelles-danticipation/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/nouvelles-danticipation"
   file: content/fr/pages/nouvelles-danticipation/_index.html
 - title: La carte d'identité
+  slug: la-carte-d-identite
   target: "/la-carte-d-identite/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-carte-d-identite"
   file: content/fr/pages/la-carte-d-identite/_index.html
 
