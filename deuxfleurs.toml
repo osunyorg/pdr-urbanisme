@@ -13,3 +13,12 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/carte-didentite-socio-demo-eco/"
+to = "/la-carte-d-identite/"
+
+[[redirects]]
+from = "/nouvelle-danticipation/"
+to = "/nouvelles-danticipation/"
+
